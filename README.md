@@ -1,4 +1,4 @@
-### Pedro Rivas Vega
+### Pedro (@rivas-vega)
 
 I am an M2 MVA student at **ENS Paris-Saclay** with a background in Mathematics from the **University of Seville**.
 
@@ -21,7 +21,6 @@ I am looking for a **6-month research internship starting April 2027**.
 
 ---
 
-#### Contact
+#### Links
 
-- Email: [pedrorivasvega@gmail.com](mailto:pedrorivasvega@gmail.com)
 - GitHub: [@rivas-vega](https://github.com/rivas-vega)
