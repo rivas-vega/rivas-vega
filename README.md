@@ -1,6 +1,6 @@
 ### Pedro (@rivas-vega)
 
-I am an M2 MVA student at **ENS Paris-Saclay** with a background in Mathematics from the **University of Seville**.
+I am an M2 MVA student at **ENS Paris-Saclay**
 
 My research interests lie at the intersection of **World Models**, **Self-Supervised Learning (JEPAs)**, and **Robotics**—focusing on non-generative latent dynamics, geometric regularization against representation collapse, and action-conditioned manipulation.
 
