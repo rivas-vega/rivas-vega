@@ -11,7 +11,7 @@ I am looking for a **6-month research internship starting April 2027**.
 #### Research & Projects
 
 - **[Mathematical Foundations of EBMs and Joint Embedding Architectures](https://github.com/rivas-vega/TFG-JEA)**  
-  Bachelor's thesis monograph supervised by Prof. Eduardo Sánchez Karhunen. Theoretical analysis of representation collapse in non-contrastive SSL (Barlow Twins, VICReg, JEPA) and empirical characteristic function regularizers (SIGReg via the Cramér-Wold device). [[PDF](https://github.com/rivas-vega/TFG-JEA/blob/main/main.pdf)]
+  Bachelor's thesis monograph (awarded Highest Honors / *Matrícula de Honor*, 10/10), supervised by Prof. Eduardo Sánchez Karhunen. Theoretical analysis of representation collapse in non-contrastive SSL (Barlow Twins, VICReg, JEPA) and empirical characteristic function regularizers (SIGReg via the Cramér-Wold device). [[PDF](https://github.com/rivas-vega/TFG-JEA/blob/main/main.pdf)]
 
 - **[vjepa2-physics-scorer](https://github.com/rivas-vega/vjepa2-physics-scorer-poc)**  
   Benchmark adapter for evaluating physical Violation-of-Expectation (VoE) and temporal consistency in video representations using V-JEPA 2. Includes offline verification and serverless GPU inference.
